@@ -36,3 +36,4 @@
 - [Безопасность на строительных площадках. Контроль наличия касок у работников](https://github.com/Orthanc92/construction-site-safety)
 - [Классификация твитов](https://github.com/Orthanc92/Tweet-classification.git)
 - [Классификация текста по тональности](https://github.com/Orthanc92/compile-dictionaries-for-classification-by-tonality.git)
+- [RAG-система на основе ГОСТов](https://github.com/Orthanc92/RAG_GOST.git)
