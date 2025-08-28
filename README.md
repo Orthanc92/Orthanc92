@@ -14,9 +14,7 @@
 ### :man_technologist: Про меня:
  Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: Недавно закончил курсы по Data science.
 
-- :seedling: Оттачиваю свои навыки в области НЛП, CV и классического машинного обучения.
 
 
 ### :hammer_and_wrench: Мои навыки:
